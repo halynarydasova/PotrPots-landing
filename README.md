@@ -4,4 +4,4 @@ Implemented landing page according to [PotrPots layout](https://www.figma.com/fi
 
 PotrPots landing was created by using BEM, SCSS, JS. It's adaptive for different devices sizes. 
 
-    - [DEMO LINK](https://halynarydasova.github.io/PotrPots-landing/)
+[DEMO LINK](https://halynarydasova.github.io/PotrPots-landing/)
